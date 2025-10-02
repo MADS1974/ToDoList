@@ -74,51 +74,20 @@ Abra o projeto no Android Studio
 Aguarde a sincronização do Gradle
 Execute em um emulador ou dispositivo físico
 
-📚 Créditos
-
-Projeto acadêmico desenvolvido para a disciplina Desenvolvimento para Android 1 – D1DA1, ministrada pelo professor Pedro Northon Nobile (IFSP).
+## 🎥 Vídeo Demonstrativo
 
 
-## 📂 Estrutura do Projeto
-
-```bash
-ToDoList/
-│
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/br/edu/ifsp/scl/sdm/todolist/
-│   │   │   │   ├── controller/
-│   │   │   │   │   └── TaskViewModel.kt        # ViewModel para lógica de negócio
-│   │   │   │   ├── model/
-│   │   │   │   │   ├── database/
-│   │   │   │   │   │   └── ToDoListDatabase.kt # Configuração do Room
-│   │   │   │   │   ├── dao/
-│   │   │   │   │   │   └── TaskDao.kt          # Queries SQL
-│   │   │   │   │   └── entity/
-│   │   │   │   │       └── Task.kt             # Entidade da tabela
-│   │   │   │   └── view/
-│   │   │   │       ├── adapter/
-│   │   │   │       │   └── TaskAdapter.kt      # Adaptador do RecyclerView
-│   │   │   │       ├── MainFragment.kt         # Lista de tarefas
-│   │   │   │       └── TaskFragment.kt         # Adicionar/editar tarefa
-│   │   │   ├── res/
-│   │   │   │   ├── layout/
-│   │   │   │   │   ├── fragment_main.xml
-│   │   │   │   │   ├── fragment_task.xml
-│   │   │   │   │   └── tile_task.xml           # Item da lista
-│   │   │   │   ├── drawable/
-│   │   │   │   │   └── purple_rounded_background.xml # Fundo roxo arredondado
-│   │   │   │   ├── menu/
-│   │   │   │   └── navigation/
-│   │   │   │       └── nav_graph.xml           # Gráfico de navegação
-│   │   │   └── AndroidManifest.xml
-│   ├── build.gradle.kts (Module :app)
-│
-├── build.gradle.kts (Project: ToDoList)
-└── settings.gradle.kts
-
----
+👉 [xToDoList.Mp4](./xToDoList.mp4)
 
 
+## 📚 Créditos
+
+Projeto acadêmico desenvolvido para a disciplina **Desenvolvimento para Android 1 – D1DA1**, ministrada pelo professor **Pedro Northon Nobile (IFSP)**. 
+
+
+## 🙋‍♂️
+
+🔗 Conecte-se comigo
+
+[LinkedIn - Márcio Adriano](https://www.linkedin.com/in/mads1974/)
 
