@@ -40,20 +40,28 @@ Este projeto foi criado para fins acadêmicos no contexto da disciplina de **Des
 ---
 
 📸 Demonstração do App
+
 01 - Tela Principal
 
 Exibição da lista de tarefas. O botão ➕ FloatingActionButton permite adicionar novas tarefas.
-<img src="screens/1%20ToDoList.png" alt="Tela Principal" width="400"/>
 
-02 - Adicionar/Editar Tarefa
+<img src="screen/1%20Tela%20Principal.png" alt="Tela Principal" width="400"/>
 
-Formulário para criar ou editar uma tarefa.
-<img src="screens/2%20ToDoList.png" alt="Adicionar/Editar Tarefa" width="400"/>
+02 - Adicionar Tarefa
 
-03 - Lista de Tarefas Criadas
+<img src="screen/2%20Add%20Tarefa.png" alt="Adicionar/Editar Tarefa" width="400"/>
 
-As tarefas aparecem na lista com fundo roxo arredondado.
-<img src="screens/3%20ToDoList.png" alt="Lista de Tarefas" width="400"/>
+
+03 - Editar Tarefa
+
+<img src="screen/3%20Editar%20Tarefa.png" alt="Adicionar/Editar Tarefa" width="400"/>
+
+04 - Lista de Tarefas Criadas
+
+
+<img src="screen/4%20Lista%20de%20Tarefas.png" alt="Lista de Tarefas" width="400"/>
+
+Os itens da lista de tarefas são renderizados com um background roxo e bordas arredondadas, definido via Drawable XML (purple_rounded_background.xml) e aplicado ao layout do item (tile_task.xml).
 
 ▶️ Como Executar o Projeto
 
