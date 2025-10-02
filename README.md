@@ -59,7 +59,7 @@ As tarefas aparecem na lista com fundo roxo arredondado.
 
 Clone este repositório:
 
-git clone https://github.com/SEU-USUARIO/ToDoList.git
+git clone https://github.com/MADS1974/ToDoList
 
 
 Abra o projeto no Android Studio
